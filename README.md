@@ -4,4 +4,6 @@ I am re-creating the Conquer Free CSS Template (http://www.free-css.com/free-css
 
 I am creating this site without using the Conquer Template itself. I will not look at the underlying code of the Template. Nor will I use the Bootstrap framework that the Conquer Template is based on.
 
+Tags: html css javascript jquery parallax
+
 [](www.todd-demone.github.io/one-page-responsive)
